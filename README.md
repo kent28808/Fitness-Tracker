@@ -18,7 +18,7 @@
 This is a fitness tracker application that was created using a Mongo database with a Mongoose schema and handle routes with Express.  
 This application allows users to view, create and track their personal daily workouts.  Users can also view their workout duration in minutes, pounds lifted, exercises performed throughout the week on the stats page.
 
-![Fitness-Tracker]()
+![Fitness-Tracker](https://github.com/kent28808/Fitness-Tracker/blob/main/Assets/FitnessTracker.gif)
 
 ## Deployed Link
 * [Fitness-Tracker](https://lit-stream-62425.herokuapp.com/)
