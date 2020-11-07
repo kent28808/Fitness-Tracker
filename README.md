@@ -1,4 +1,4 @@
-# Burger-Express-Handlebars
+# Fitness-Tracker
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
@@ -24,11 +24,11 @@ This application allows users to view, create and track their personal daily wor
 * [Fitness-Tracker](https://lit-stream-62425.herokuapp.com/)
 
 ## Demo
-* [Demo] (https://drive.google.com/file/d/1z1ytzg8o67G6g0IGZgt_fiMF_4fN3ppo/view)
+* [Demo](https://drive.google.com/file/d/1z1ytzg8o67G6g0IGZgt_fiMF_4fN3ppo/view)
 
 ## Built With
 * [Node.js](https://nodejs.org/en/)
-* [MongoDB](https://www.mongodb.com/
+* [MongoDB](https://www.mongodb.com/)
 * [Mongoose](https://mongoosejs.com/docs/)
 * [Heroku](https://dashboard.heroku.com/apps)
 
