@@ -45,7 +45,7 @@ User opens deployed Fitness Tracker app through the Heroku url.  User can then c
 ## Contributions
 
 This project was written by: Ken Tanoue.
-- [Link to Portfolio Site](https://kent28808.github.io/KT-Portfolio/)
+- [Link to Portfolio Site](https://kent28.netlify.app/)
 - [Link to Github](https://github.com/kent28808/)
 
    
