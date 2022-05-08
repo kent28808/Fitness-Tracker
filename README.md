@@ -23,8 +23,6 @@ This application allows users to view, create and track their personal daily wor
 ## Deployed Link
 * [Fitness-Tracker](https://lit-stream-62425.herokuapp.com/)
 
-## Demo
-* [Demo](https://drive.google.com/file/d/1z1ytzg8o67G6g0IGZgt_fiMF_4fN3ppo/view)
 
 ## Built With
 * [Node.js](https://nodejs.org/en/)
